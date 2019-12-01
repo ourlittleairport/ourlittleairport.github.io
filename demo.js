@@ -7,32 +7,29 @@ const ap = new APlayer({
     theme: '#ad7a86',
     order: 'random',
     audio: [{
-        name: '光るなら',
-        artist: 'Goose house',
-        url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
-        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
-        lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
-        theme: '#ebd0c2'
+        name: '土瓜灣情歌',
+        artist: 'my little airport',
+        url: 'https://storage.googleapis.com/ourlittleairport/土瓜灣情歌.mp3',
+        cover: 'https://storage.googleapis.com/ourlittleairport/適婚的年齡.jpg'
     }, {
-        name: 'トリカゴ',
-        artist: 'XX:me',
-        url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
-        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
-        lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
-        theme: '#46718b'
+        name: '愛情disabled',
+        artist: 'my little airport',
+        url: 'https://storage.googleapis.com/ourlittleairport/愛情disabled.mp3',
+        cover: 'https://storage.googleapis.com/ourlittleairport/適婚的年齡.jpg'
     }, {
-        name: '前前前世',
-        artist: 'RADWIMPS',
-        url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
-        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.jpg',
-        lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.lrc',
-        theme: '#505d6b'
+        name: '今晚講嘢夜唔夜',
+        artist: 'my little airport',
+        url: 'https://storage.googleapis.com/ourlittleairport/今晚講嘢夜唔夜.mp3',
+        cover: 'https://storage.googleapis.com/ourlittleairport/適婚的年齡.jpg'
     }, {
-        name: '光るなら(HLS)',
-        artist: 'Goose house',
-        url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hls/hikarunara.m3u8',
-        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
-        theme: '#ebd0c2',
-        type: 'hls'
+        name: '年輕的茶餐廳老闆娘',
+        artist: 'my little airport',
+        url: 'https://storage.googleapis.com/ourlittleairport/年輕的茶餐廳老闆娘.mp3',
+        cover: 'https://storage.googleapis.com/ourlittleairport/適婚的年齡.jpg'
+    }, {
+        name: '美麗新香港',
+        artist: 'my little airport',
+        url: 'https://storage.googleapis.com/ourlittleairport/美麗新香港.mp3',
+        cover: 'https://storage.googleapis.com/ourlittleairport/適婚的年齡.jpg'
     }]
 });
